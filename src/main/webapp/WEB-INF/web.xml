@@ -20,6 +20,7 @@
     <load-on-startup>1</load-on-startup>
   </servlet>
 
+
   <!-- Внутри тега servlet-mapping указываем, что DispatcherServlet с именем dispatcher
   будет реагировать на любые запросы -->
   <servlet-mapping>
